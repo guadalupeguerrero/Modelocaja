@@ -1,0 +1,16 @@
+div{
+
+	border: 8px solid purple;
+	background-color: orange;
+
+}
+
+p{
+	text-align: center;
+	border: 3px dashed green;
+	background-color: white;
+	padding-top: 30px;
+	padding-bottom:40px;
+	margin: 30px 40px;
+
+}
